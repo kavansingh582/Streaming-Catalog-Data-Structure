@@ -1,0 +1,1 @@
+This project, although seemingly complex, was actually simpler than I anticipated. The main use of this project was establishing the functions for the double linked list, and making the data type it stored a movie list. The application functions as it should and adds all categories and is able to traverse back and forth. The project is now complete.
